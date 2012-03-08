@@ -1,8 +1,6 @@
 
-call pathogen#infect()
 set nocompatible
 syn on
-colorscheme solarized
 set background=dark
 set sm
 set cindent
